@@ -1,0 +1,6 @@
+/Users/chanakya/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/chanakya/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/chanakya/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.AssemblyReference.cache
+/Users/chanakya/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/chanakya/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/chanakya/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb

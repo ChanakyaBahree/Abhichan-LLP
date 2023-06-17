@@ -1,0 +1,6 @@
+/Users/chanakya/Projects/MultiThread/Multithread/bin/Debug/Multithread.exe
+/Users/chanakya/Projects/MultiThread/Multithread/bin/Debug/Multithread.pdb
+/Users/chanakya/Projects/MultiThread/Multithread/obj/Debug/Multithread.csproj.AssemblyReference.cache
+/Users/chanakya/Projects/MultiThread/Multithread/obj/Debug/Multithread.csproj.CoreCompileInputs.cache
+/Users/chanakya/Projects/MultiThread/Multithread/obj/Debug/Multithread.exe
+/Users/chanakya/Projects/MultiThread/Multithread/obj/Debug/Multithread.pdb
